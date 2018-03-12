@@ -11,3 +11,4 @@ git log
 git log --author="ahmr"
 git log --untill=2018-3-10
 git log --grep="message"
+git status
