@@ -1,0 +1,13 @@
+123456789
+
+mkdir project
+cd project
+git init
+ls
+git add .
+git commit -m "this is my change
+
+git log 
+git log --author="ahmr"
+git log --untill=2018-3-10
+git log --grep="message"
